@@ -54,22 +54,22 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in Yahangala and Ella.
 ---
 ### **Outputs**
-![Burned Area Map - Yahangala](Images/Yahangala.jpg) 
-![Burned Area Map - Yahangala](Images/Ella.jpg)   
-![Fire Severity Classification Map](Images/Severity_Levels_Ella.jpg)  
-![Comparative Maps - Slope](Images/Slope.jpg)  
-![Comparative Maps - Elevation](Images/Elevation.jpg) 
-![Comparative Maps – Average Rainfall on the day of fire](Images/Avg_RainFall.jpg)   
-![Comparative Maps – Maximum Air Temperature at 2 meter]( Images/ Max_Temperature.jpg)
-![Comparative Maps – Relative Humidity](Images/Relative_Humidity.jpg)
-![Comparative Maps - Wind Speed and Direction](Images/WindSpeed_Direction.jpg)
-![Comparative Maps – Vegetation Types](Images/Vegetation.jpg)
-![Comparision – Pre fire vegetation health vs burn severity](Images/PreFireVeg_Severity.jpg)
-![Comparision –  Correlation between dNBR and dNDVI](Images/Correlation_dNDVI_dNBR.jpg)
-![Overlay Analysis_Slope and Severity - Yahangala](Images/Slope_BurnedSeverity_Yahangala.jpg)
-![Overlay Analysis_Slope and Severity - Ella](Images/Slope_BurnedSeverity_Ella.jpg)
-![Burn Severity by Slope Class](Images/BurnSeverity_Slope.jpg)
-![Burn Severity by Aspect](Images/BurnSeverity_Aspect.jpg)
+![Burned Area Map - Yahangala](Yahangala.jpg) 
+![Burned Area Map - Yahangala](Ella.jpg)   
+![Fire Severity Classification Map](Severity_Levels_Ella.jpg)  
+![Comparative Maps - Slope](Slope.jpg)  
+![Comparative Maps - Elevation](Elevation.jpg) 
+![Comparative Maps – Average Rainfall on the day of fire](Avg_RainFall.jpg)   
+![Comparative Maps – Maximum Air Temperature at 2 meter](Max_Temperature.jpg)
+![Comparative Maps – Relative Humidity](Relative_Humidity.jpg)
+![Comparative Maps - Wind Speed and Direction](WindSpeed_Direction.jpg)
+![Comparative Maps – Vegetation Types](Vegetation.jpg)
+![Comparision – Pre fire vegetation health vs burn severity](PreFireVeg_Severity.jpg)
+![Comparision –  Correlation between dNBR and dNDVI](Correlation_dNDVI_dNBR.jpg)
+![Overlay Analysis_Slope and Severity - Yahangala](Slope_BurnedSeverity_Yahangala.jpg)
+![Overlay Analysis_Slope and Severity - Ella](Slope_BurnedSeverity_Ella.jpg)
+![Burn Severity by Slope Class](BurnSeverity_Slope.jpg)
+![Burn Severity by Aspect](BurnSeverity_Aspect.jpg)
 ---
 ### **Key Findings**
 - Ella experienced **moderate–low fire severity**, strongly influenced by terrain-driven wind channeling. Slope–aspect alignment with prevailing winds intensified fire spread.  
