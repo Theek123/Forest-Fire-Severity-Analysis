@@ -54,7 +54,7 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in Yahangala and Ella.
 ---
 ### **Outputs**
-![Burned Area Map - Yahangala](Images/Yahangala.jpg) 
+![Burned Area Map - Yahangala](Yahangala.jpg) 
 ![Burned Area Map - Yahangala](Images/Ella.jpg)   
 ![Fire Severity Classification Map](Images/Severity_Levels_Ella.jpg)  
 ![Comparative Maps - Slope](Images/Slope.jpg)  
