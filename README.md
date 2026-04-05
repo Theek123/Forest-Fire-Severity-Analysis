@@ -47,8 +47,8 @@ GIS and remote sensing analysis of forest fire severity in Yahangala and Ella, S
   <img src="Correlation_dNDVI_dNBR.jpg" width="450">
   <br><em>Comparision – Correlation between dNBR and dNDVI</em>
 </p> 
----
-### Methodology in detail
+
+### **Methodology in detail**
 The analysis combined **Remote Sensing (RS) and GIS techniques** to assess forest fire severity and its influencing factors.
 
 **1. Burn Severity Analysis**  
@@ -72,25 +72,31 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 </p> 
 
 - Classified terrain features to correlate with burn severity patterns.
-<p align="left">
-  <img src="Slope_BurnedSeverity_Ella.jpg" width="450">
-  <br><em>Overlay Analysis_Slope and Severity - Ella</em>
-</p> 
+<table>
+  <tr>
+    <td align="center">
+      <img src="Severity_Levels_Ella.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Ella</em>
+    </td>
+    <td align="center">
+      <img src="Severity_Levels_Yahangala.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Yahangala</em>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="Slope_BurnedSeverity_Yahangala.jpg" width="450">
-  <br><em>Overlay Analysis_Slope and Severity - Yahangala</em>
-</p> 
-
-<p align="left">
-  <img src="BurnSeverity_Slope.jpg" width="450">
-  <br><em>Burn Severity by Slope Class</em>
-</p> 
-
-<p align="right">
-  <img src="BurnSeverity_Aspect.jpg" width="450">
-  <br><em>Burn Severity by Aspect</em>
-</p> 
+<table>
+  <tr>
+    <td align="center">
+      <img src="BurnSeverity_Slope.jpg" width="400"><br>
+      <em>Burn Severity by Slope Class</em>
+    </td>
+    <td align="center">
+      <img src="BurnSeverity_Aspect.jpg" width="400"><br>
+      <em>Burn Severity by Aspect</em>
+    </td>
+  </tr>
+</table>
 
 **3. Microclimatic Factors**  
 - Temperature, rainfall, relative humidity, wind speed, and wind direction were extracted from **ERA5 datasets**.  
@@ -99,15 +105,33 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
   <img src="Avg_RainFall.jpg" width="450">
   <br><em>Comparative Maps – Average Rainfall on the day of fire</em>
 </p> 
-   
-![Comparative Maps – Maximum Air Temperature at 2 meter](Max_Temperature.jpg)
-![Comparative Maps – Relative Humidity](Relative_Humidity.jpg)
-![Comparative Maps - Wind Speed and Direction](WindSpeed_Direction.jpg)
+
+<p align="center">
+  <img src="Max_Temperature.jpg" width="450">
+  <br><em>Comparative Maps – Maximum Air Temperature at 2 meter</em>
+</p>    
+
+<p align="center">
+  <img src="Relative_Humidity.jpg" width="450">
+  <br><em>Comparative Maps – Relative Humidity</em>
+</p>  
+
+<p align="center">
+  <img src="WindSpeed_Direction.jpg" width="450">
+  <br><em>Comparative Maps - Wind Speed and Wind Direction</em>
+</p>  
+
 **4. Vegetation Health and Type**  
-- Vegetation types were identified using **supervised classification** on pre-fire Sentinel-2 imagery.  
+- Vegetation types were identified using **supervised classification** on pre-fire Sentinel-2 imagery.
+<p align="center">
+  <img src="Vegetation.jpg" width="450">
+  <br><em>Comparative Maps – Vegetation Types</em>
+</p>  
 - **NDVI and dNDVI** were calculated to assess vegetation health and loss after fires.
-![Comparative Maps – Vegetation Types](Vegetation.jpg)
-![Comparision – Pre fire vegetation health vs burn severity](PreFireVeg_Severity.jpg)
+<p align="center">
+  <img src="PreFireVeg_Severity.jpg" width="450">
+  <br><em>Comparision – Pre fire vegetation health vs burn severity</em>
+</p>  
 
 This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in Yahangala and Ella.
 ---
