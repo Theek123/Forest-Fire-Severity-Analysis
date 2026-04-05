@@ -53,11 +53,20 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 
 **1. Burn Severity Analysis**  
 - Burn severity was quantified using **NBR** (Normalized Burn Ratio) and **dNBR** (Differenced NBR) from pre- and post-fire Sentinel-2 imagery.  
-- dNBR values were classified into **USGS severity levels**: Unburned (< +0.099), Low (+0.100 to +0.269), Moderate-Low (+0.270 to +0.439), Moderate-High (+0.440 to +0.659), and High (+0.660 to +1.300). ![Burned Area Map - Yahangala](Yahangala.jpg) 
-<p align="center">
-  <img src="Ella.jpg" width="450">
-  <br><em>Burned Area Map - Ella</em>
-</p> 
+- dNBR values were classified into **USGS severity levels**: Unburned (< +0.099), Low (+0.100 to +0.269), Moderate-Low (+0.270 to +0.439), Moderate-High (+0.440 to +0.659), and High (+0.660 to +1.300).
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Yahangala.jpg" width="450"><br>
+      <em>Burned Area Map - Yahangala</em>
+    </td>
+    <td align="center">
+      <img src="Ella.jpg" width="450"><br>
+      <em>Burned Area Map - Ella</em>
+    </td>
+  </tr>
+</table>
 
 **2. Terrain Factors**  
 - Derived **slope, aspect, and elevation** from DEMs using ArcGIS Pro.  
