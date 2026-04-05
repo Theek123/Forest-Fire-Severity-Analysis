@@ -28,12 +28,22 @@ GIS and remote sensing analysis of forest fire severity in Yahangala and Ella, S
 ### **Methodology**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
-![Fire Severity Classification Map-Ella](Severity_Levels_Ella.jpg)  
-![Fire Severity Classification Map-Yahangala](Severity_Levels_Yahangala.jpg)
+
+<p align="left">
+  <img src="Severity_Levels_Ella.jpg" width="450">
+  <br><em>Fire Severity Classification Map-Ella</em>
+</p>
+<p align="right">
+  <img src="Severity_Levels_Yahangala.jpg" width="450">
+  <br><em>Fire Severity Classification Map-Yahangala</em>
+</p> 
 - Integrated climatic and environmental datasets  
 - Applied spatial analysis to identify influencing factors  
 - Compared fire behavior across two regions: Yahangala and Ella
-![Comparision –  Correlation between dNBR and dNDVI](Correlation_dNDVI_dNBR.jpg)
+<p align="center">
+  <img src="Correlation_dNDVI_dNBR.jpg" width="450">
+  <br><em>Comparision – Correlation between dNBR and dNDVI</em>
+</p> 
 ---
 ### Methodology in detail
 The analysis combined **Remote Sensing (RS) and GIS techniques** to assess forest fire severity and its influencing factors.
@@ -41,23 +51,52 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 **1. Burn Severity Analysis**  
 - Burn severity was quantified using **NBR** (Normalized Burn Ratio) and **dNBR** (Differenced NBR) from pre- and post-fire Sentinel-2 imagery.  
 - dNBR values were classified into **USGS severity levels**: Unburned (< +0.099), Low (+0.100 to +0.269), Moderate-Low (+0.270 to +0.439), Moderate-High (+0.440 to +0.659), and High (+0.660 to +1.300). ![Burned Area Map - Yahangala](Yahangala.jpg) 
-![Burned Area Map - Ella](Ella.jpg)
-
+<p align="center">
+  <img src="Ella.jpg" width="450">
+  <br><em>Burned Area Map - Ella</em>
+</p> 
 
 **2. Terrain Factors**  
 - Derived **slope, aspect, and elevation** from DEMs using ArcGIS Pro.  
-- Classified terrain features to correlate with burn severity patterns.
-![Comparative Maps - Slope](Slope.jpg)  
-![Comparative Maps - Elevation](Elevation.jpg)
 
-![Overlay Analysis_Slope and Severity - Yahangala](Slope_BurnedSeverity_Yahangala.jpg)
-![Overlay Analysis_Slope and Severity - Ella](Slope_BurnedSeverity_Ella.jpg)
-![Burn Severity by Slope Class](BurnSeverity_Slope.jpg)
-![Burn Severity by Aspect](BurnSeverity_Aspect.jpg)
+<p align="center">
+  <img src="Slope.jpg" width="450">
+  <br><em>Comparative Maps - Slope</em>
+</p> 
+<p align="center">
+  <img src="Elevation.jpg" width="450">
+  <br><em>Comparative Maps - Elevation</em>
+</p> 
+
+- Classified terrain features to correlate with burn severity patterns.
+<p align="left">
+  <img src="Slope_BurnedSeverity_Ella.jpg" width="450">
+  <br><em>Overlay Analysis_Slope and Severity - Ella</em>
+</p> 
+
+<p align="right">
+  <img src="Slope_BurnedSeverity_Yahangala.jpg" width="450">
+  <br><em>Overlay Analysis_Slope and Severity - Yahangala</em>
+</p> 
+
+<p align="left">
+  <img src="BurnSeverity_Slope.jpg" width="450">
+  <br><em>Burn Severity by Slope Class</em>
+</p> 
+
+<p align="right">
+  <img src="BurnSeverity_Aspect.jpg" width="450">
+  <br><em>Burn Severity by Aspect</em>
+</p> 
+
 **3. Microclimatic Factors**  
 - Temperature, rainfall, relative humidity, wind speed, and wind direction were extracted from **ERA5 datasets**.  
 - Short-term pre-fire conditions were analyzed to assess their influence on fire behavior.
-![Comparative Maps – Average Rainfall on the day of fire](Avg_RainFall.jpg)   
+<p align="center">
+  <img src="Avg_RainFall.jpg" width="450">
+  <br><em>Comparative Maps – Average Rainfall on the day of fire</em>
+</p> 
+   
 ![Comparative Maps – Maximum Air Temperature at 2 meter](Max_Temperature.jpg)
 ![Comparative Maps – Relative Humidity](Relative_Humidity.jpg)
 ![Comparative Maps - Wind Speed and Direction](WindSpeed_Direction.jpg)
