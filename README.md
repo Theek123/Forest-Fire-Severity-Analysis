@@ -28,15 +28,18 @@ GIS and remote sensing analysis of forest fire severity in Yahangala and Ella, S
 ### **Methodology**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
-
-<p align="left">
-  <img src="Severity_Levels_Ella.jpg" width="450">
-  <br><em>Fire Severity Classification Map-Ella</em>
-</p>
-<p align="right">
-  <img src="Severity_Levels_Yahangala.jpg" width="450">
-  <br><em>Fire Severity Classification Map-Yahangala</em>
-</p> 
+<table>
+  <tr>
+    <td align="center">
+      <img src="Severity_Levels_Ella.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Ella</em>
+    </td>
+    <td align="center">
+      <img src="Severity_Levels_Yahangala.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Yahangala</em>
+    </td>
+  </tr>
+</table>
 - Integrated climatic and environmental datasets  
 - Applied spatial analysis to identify influencing factors  
 - Compared fire behavior across two regions: Yahangala and Ella
