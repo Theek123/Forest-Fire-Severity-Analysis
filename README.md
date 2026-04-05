@@ -1,5 +1,10 @@
 # Forest-Fire-Severity-Analysis
 GIS and remote sensing analysis of forest fire severity in Yahangala and Ella, Sri Lanka, focusing on terrain, vegetation, and micro climatic influences.
+
+# Disclaimer
+This repository contains derived outputs and workflows from my published research in *Volume 4, Centre for Environmental Sustainability, 2025*. 
+Raw data from the publication cannot be shared publicly due to publisher copyright restrictions.
+
 ### **Technologies and Data Sources**
 - ArcGIS Pro  
 - Remote Sensing (Satellite Imagery: Sentinel-2B)  
