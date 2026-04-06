@@ -77,7 +77,8 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
 - Elevation and terrain (slope, aspect)  
 - Vegetation type and health  
 ---
-### Study Area
+<details>
+  <summary>Study Area</summary>
 <p align="center">
   <img src="Study_Area.jpg" width="600">
   <br><em>Study Area Map</em>
@@ -89,7 +90,7 @@ Yahangala (1220 m) is located on the eastern boundary of the Knuckles massif in 
 Ella Rock Forest (1041 m), located in the Badulla District, consists of montane forest patches, grasslands, and eucalyptus plantations. It is influenced primarily by the southwest monsoon, receiving 2000–2500 mm annual rainfall, with moderate temperature variation due to elevation. The area is ecologically significant and widely known for tourism and hiking.
 
 Although both locations belong to the tropical montane ecosystem of Sri Lanka, they differ in terrain configuration, vegetation composition, and microclimatic conditions. These contrasts make them ideal for a comparative analysis of fire severity and its controlling factors.
-
+</details>
 ---
 ### **Methodology**
 - Processed satellite imagery to map burned areas  
