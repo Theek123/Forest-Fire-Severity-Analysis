@@ -52,6 +52,34 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
 - Elevations between **900–1100 m** in both regions were more fire-prone, showing the link between altitude, vegetation, and microclimate.  
 ---
 
+<details>
+  <summary>Study Area</summary>
+<p align="center">
+  <img src="Study_Area.jpg" width="600">
+  <br><em>Study Area Map</em>
+</p> 
+This study focuses on two tropical montane forest regions in Sri Lanka: Yahangala (Knuckles Mountain Range) and Ella Rock Forest (Badulla District).
+
+Yahangala (1220 m) is located on the eastern boundary of the Knuckles massif in the Kandy District. The area is characterized by grass-dominated landscapes, exposed rocky surfaces, and high lightning activity. As part of the UNESCO-listed Knuckles Conservation Forest, it supports rich biodiversity with endemic species. The region experiences a tropical montane climate, receiving 1900–2500 mm annual rainfall, mainly from the northeast monsoon, with a pronounced dry period that increases fire susceptibility.
+
+Ella Rock Forest (1041 m), located in the Badulla District, consists of montane forest patches, grasslands, and eucalyptus plantations. It is influenced primarily by the southwest monsoon, receiving 2000–2500 mm annual rainfall, with moderate temperature variation due to elevation. The area is ecologically significant and widely known for tourism and hiking.
+
+Although both locations belong to the tropical montane ecosystem of Sri Lanka, they differ in terrain configuration, vegetation composition, and microclimatic conditions. These contrasts make them ideal for a comparative analysis of fire severity and its controlling factors.
+
+---
+</details>
+
+
+### **Methodology**
+ **Factors Considered**
+- Burned area extent  
+- dNBR (Differenced Normalized Burn Ratio) for fire severity  
+- Rainfall and temperature data  
+- Wind patterns and humidity  
+- Elevation and terrain (slope, aspect)  
+- Vegetation type and health  
+---
+
 ### **Technologies and Data Sources**
 - ArcGIS Pro  
 - Remote Sensing (Satellite Imagery: Sentinel-2B)  
@@ -69,31 +97,8 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
 - Pre-fire satellite image = 2025/02/10 
 - Post-fire satellite image = 2025/02/15
 ---
-### **Factors Considered**
-- Burned area extent  
-- dNBR (Differenced Normalized Burn Ratio) for fire severity  
-- Rainfall and temperature data  
-- Wind patterns and humidity  
-- Elevation and terrain (slope, aspect)  
-- Vegetation type and health  
----
-<details>
-  <summary>Study Area</summary>
-<p align="center">
-  <img src="Study_Area.jpg" width="600">
-  <br><em>Study Area Map</em>
-</p> 
-This study focuses on two tropical montane forest regions in Sri Lanka: Yahangala (Knuckles Mountain Range) and Ella Rock Forest (Badulla District).
 
-Yahangala (1220 m) is located on the eastern boundary of the Knuckles massif in the Kandy District. The area is characterized by grass-dominated landscapes, exposed rocky surfaces, and high lightning activity. As part of the UNESCO-listed Knuckles Conservation Forest, it supports rich biodiversity with endemic species. The region experiences a tropical montane climate, receiving 1900–2500 mm annual rainfall, mainly from the northeast monsoon, with a pronounced dry period that increases fire susceptibility.
-
-Ella Rock Forest (1041 m), located in the Badulla District, consists of montane forest patches, grasslands, and eucalyptus plantations. It is influenced primarily by the southwest monsoon, receiving 2000–2500 mm annual rainfall, with moderate temperature variation due to elevation. The area is ecologically significant and widely known for tourism and hiking.
-
-Although both locations belong to the tropical montane ecosystem of Sri Lanka, they differ in terrain configuration, vegetation composition, and microclimatic conditions. These contrasts make them ideal for a comparative analysis of fire severity and its controlling factors.
-</details>
----
-
-### **Methodology**
+**Process**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
 <table>
