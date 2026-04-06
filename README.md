@@ -51,6 +51,18 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
 <details>
   <summary>Key Findings</summary>
 
+  <table>
+  <tr>
+    <td align="center">
+      <img src="Severity_Levels_Ella.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Ella</em>
+    </td>
+    <td align="center">
+      <img src="Severity_Levels_Yahangala.jpg" width="400"><br>
+      <em>Fire Severity Classification Map - Yahangala</em>
+    </td>
+  </tr>
+</table>
 
 - Ella experienced **moderate–low fire severity**, strongly influenced by terrain-driven wind channeling. Slope–aspect alignment with prevailing winds intensified fire spread.  
 - Yahangala showed **mostly low severity**, due to fire-resistant vegetation and weaker terrain–wind alignment.  
@@ -111,18 +123,6 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
 ### **Process**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
-<table>
-  <tr>
-    <td align="center">
-      <img src="Severity_Levels_Ella.jpg" width="400"><br>
-      <em>Fire Severity Classification Map - Ella</em>
-    </td>
-    <td align="center">
-      <img src="Severity_Levels_Yahangala.jpg" width="400"><br>
-      <em>Fire Severity Classification Map - Yahangala</em>
-    </td>
-  </tr>
-</table>
 - Integrated climatic and environmental datasets  
 - Applied spatial analysis to identify influencing factors  
 - Compared fire behavior across two regions: Yahangala and Ella
