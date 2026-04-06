@@ -64,11 +64,16 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
   </tr>
 </table>
 
-- Ella experienced **moderate–low fire severity**, strongly influenced by terrain-driven wind channeling. Slope–aspect alignment with prevailing winds intensified fire spread.  
-- Yahangala showed **mostly low severity**, due to fire-resistant vegetation and weaker terrain–wind alignment.  
-- Larger burned areas did **not necessarily mean higher severity**; fire behavior was site-specific.  
-- Areas with weaker vegetation health were more vulnerable, particularly in Yahangala.  
-- Elevations between **900–1100 m** in both regions were more fire-prone, showing the link between altitude, vegetation, and microclimate.  
+- The Ella fire experienced moderate–low severity, which was strongly influenced by terrain-driven wind channeling. The alignment of slope and aspect with prevailing winds further intensified fire spread. 
+- In contrast, the Yahangala fire showed mostly low severity, primarily due to fire-resistant vegetation and weaker terrain–wind alignment.  
+- Burned area size did not directly correlate with severity, indicating that fire behavior was highly site-specific.  
+- Areas with weaker pre-fire vegetation were more vulnerable to fire, particularly in Yahangala.  
+- Grasslands were highly fire-prone in both sites, highlighting the susceptibility of open vegetation types.  
+- Sites located between 900 and 1100 meters in elevation were consistently more fire-prone, demonstrating the combined influence of altitude, vegetation, and microclimatic conditions.  
+<p align="center">
+  <img src="BurnSeverity_by_Vegetation.jpg" width="600">
+  <br><em>Burn Severity by Vegetation Type</em>
+</p> 
 ---
 </details>
 
@@ -205,14 +210,6 @@ This workflow provided a **spatially explicit assessment of fire severity**, lin
   <summary>Conclusion</summary>
 
 This study compared forest fire severity in the mountainous regions of Ella and Yahangala, Sri Lanka, analyzing the influence of terrain, microclimate, and pre-fire vegetation using remote sensing indices and GIS techniques.
-
-Key findings include:
-
-Ella experienced mostly moderate-low severity, while Yahangala showed predominantly low severity.
-Burn severity was not directly proportional to burned area, highlighting the influence of multiple factors.
-Terrain-induced wind channeling significantly increased fire spread in Ella, whereas Yahangala’s diffused terrain and fire-resistant vegetation reduced severity.
-Areas with weaker pre-fire vegetation were more fire-prone, particularly in Yahangala.
-Elevations between 900–1100 m were consistently more vulnerable, showing the link between altitude, vegetation, and microclimate.
 
 Overall, the study confirms that forest fire severity in Sri Lanka’s montane ecosystems is highly site-specific, shaped by the complex interplay of terrain, vegetation, and microclimatic conditions, and cannot be generalized across regions.
 
