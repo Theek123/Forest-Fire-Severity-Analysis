@@ -92,6 +92,7 @@ Ella Rock Forest (1041 m), located in the Badulla District, consists of montane 
 Although both locations belong to the tropical montane ecosystem of Sri Lanka, they differ in terrain configuration, vegetation composition, and microclimatic conditions. These contrasts make them ideal for a comparative analysis of fire severity and its controlling factors.
 </details>
 ---
+
 ### **Methodology**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
