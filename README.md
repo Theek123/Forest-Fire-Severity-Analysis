@@ -66,9 +66,7 @@ This repository presents a comparative geospatial analysis of wildfire dynamics 
 
 - The Ella fire experienced moderate–low severity, which was strongly influenced by terrain-driven wind channeling. The alignment of slope and aspect with prevailing winds further intensified fire spread. 
 - In contrast, the Yahangala fire showed mostly low severity, primarily due to fire-resistant vegetation and weaker terrain–wind alignment.  
-- Burned area size did not directly correlate with severity.
-     For example, Yahangala had a larger burned area of 339.48 ha but mostly low severity, whereas Ella had a smaller burned area of 122.46 ha but experienced mostly moderate–high severity.
-  This demonstrates that fire behavior was highly site-specific.
+- Burned area size did not directly correlate with severity. For example, Yahangala had a **larger burned area of 339.48 ha but mostly low severity**, whereas Ella had a **smaller burned area of 122.46 ha but experienced mostly moderate–high severity.** This demonstrates that fire behavior was highly site-specific.
 - Areas with weaker pre-fire vegetation were more vulnerable to fire, particularly in Yahangala.  
 - Grasslands were highly fire-prone in both sites, highlighting the susceptibility of open vegetation types.  
 - Sites located between 900 and 1100 meters in elevation were consistently more fire-prone, demonstrating the combined influence of altitude, vegetation, and microclimatic conditions.  
