@@ -174,6 +174,7 @@ The analysis combined **Remote Sensing (RS) and GIS techniques** to assess fores
 </p>  
 
 This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in Yahangala and Ella.
+
 ---
 
 ### **Conclusion**
