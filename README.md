@@ -41,8 +41,8 @@ By integrating these variables, the project provides a comprehensive spatial ana
 ---
 
 ## Summary
-
 This repository presents a comparative geospatial analysis of wildfire dynamics in Sri Lanka, offering valuable insights for researchers, policymakers, and environmental managers.
+
 --- 
 ### **Key Findings**
 - Ella experienced **moderate–low fire severity**, strongly influenced by terrain-driven wind channeling. Slope–aspect alignment with prevailing winds intensified fire spread.  
