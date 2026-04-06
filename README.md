@@ -90,6 +90,7 @@ Ella Rock Forest (1041 m), located in the Badulla District, consists of montane 
 
 Although both locations belong to the tropical montane ecosystem of Sri Lanka, they differ in terrain configuration, vegetation composition, and microclimatic conditions. These contrasts make them ideal for a comparative analysis of fire severity and its controlling factors.
 
+---
 ### **Methodology**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
@@ -113,6 +114,73 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
   <br><em>Comparison – Correlation between dNBR and dNDVI</em>
 </p> 
 
+---
+<details>
+  <summary>Methodology in detail</summary>
+
+### 1. Burn Severity Analysis
+- Burn severity was quantified using **Normalized Burn Ratio (NBR)** and **Differenced NBR (dNBR)** from pre- and post-fire Sentinel-2 imagery.
+- **dNBR classification (USGS standard):**
+  - Unburned: < +0.099  
+  - Low: +0.100 to +0.269  
+  - Moderate-Low: +0.270 to +0.439  
+  - Moderate-High: +0.440 to +0.659  
+  - High: +0.660 to +1.300
+
+| Region   | Severity Classification Map |
+|----------|----------------------------|
+| Yahangala | ![Yahangala](Yahangala.jpg) |
+| Ella      | ![Ella](Ella.jpg) |
+
+---
+
+### 2. Terrain Factors
+- Derived **slope, aspect, and elevation** from DEMs using ArcGIS Pro.
+- Classified terrain features to correlate with burn severity patterns.
+
+| Terrain Map | Image |
+|-------------|-------|
+| Slope       | ![Slope](Slope.jpg) |
+| Elevation   | ![Elevation](Elevation.jpg) |
+
+- Comparative Burn Severity Maps by terrain:
+
+| Analysis | Ella | Yahangala |
+|----------|------|-----------|
+| Burn Severity by Slope Class | ![Slope](BurnSeverity_Slope.jpg) | ![Slope](BurnSeverity_Slope.jpg) |
+| Burn Severity by Aspect       | ![Aspect](BurnSeverity_Aspect.jpg) | ![Aspect](BurnSeverity_Aspect.jpg) |
+
+---
+
+### 3. Microclimatic Factors
+- Extracted temperature, rainfall, relative humidity, wind speed, and wind direction from **ERA5 datasets**.
+- Assessed short-term pre-fire conditions to evaluate fire behavior influence.
+
+| Factor | Map |
+|--------|-----|
+| Average Rainfall | ![Rainfall](Avg_RainFall.jpg) |
+| Max Air Temperature | ![Temp](Max_Temperature.jpg) |
+| Relative Humidity | ![RH](Relative_Humidity.jpg) |
+| Wind Speed & Direction | ![Wind](WindSpeed_Direction.jpg) |
+
+---
+
+### 4. Vegetation Health and Type
+- Identified vegetation types using **supervised classification** on pre-fire Sentinel-2 imagery.
+- Calculated **NDVI** and **dNDVI** to assess vegetation health and post-fire loss.
+
+| Analysis | Map |
+|----------|-----|
+| Vegetation Types | ![Vegetation](Vegetation.jpg) |
+| Pre-fire Vegetation Health vs Burn Severity | ![PreFireVeg](PreFireVeg_Severity.jpg) |
+
+---
+
+This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in **Yahangala** and **Ella**.
+
+</details>
+
+---
 ### **Methodology in detail**
 The analysis combined **Remote Sensing (RS) and GIS techniques** to assess forest fire severity and its influencing factors.
 
