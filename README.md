@@ -192,6 +192,9 @@ Forest fire severity in Sri Lanka’s montane ecosystems is highly **location-sp
 ### **Note**
 Due to software access limitations, the original ArcGIS project file (.aprx) is not included. All results are presented through outputs, analysis, and visualizations.
 
+Author : Theekshana Pathirana
+BSc. in Geographical Information Science
+
 ---
 
 
