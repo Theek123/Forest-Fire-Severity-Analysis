@@ -194,9 +194,9 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
 
 This workflow provided a **spatially explicit assessment of fire severity**, linking environmental and climatic factors to fire behavior in **Yahangala** and **Ella**.
 
+---
 </details>
 
----
 <details>
   <summary>Conclusion</summary>
 
@@ -211,6 +211,7 @@ Areas with weaker pre-fire vegetation were more fire-prone, particularly in Yaha
 Elevations between 900–1100 m were consistently more vulnerable, showing the link between altitude, vegetation, and microclimate.
 
 Overall, the study confirms that forest fire severity in Sri Lanka’s montane ecosystems is highly site-specific, shaped by the complex interplay of terrain, vegetation, and microclimatic conditions, and cannot be generalized across regions.
+
 ---
 </details>
 
@@ -224,9 +225,9 @@ Overall, the study confirms that forest fire severity in Sri Lanka’s montane e
 ### **Note**
 Due to software access limitations, the original ArcGIS project file (.aprx) is not included. All results are presented through outputs, analysis, and visualizations.
 
+---
 Author : Theekshana Pathirana
 BSc. in Geographical Information Science
-
 ---
 
 
