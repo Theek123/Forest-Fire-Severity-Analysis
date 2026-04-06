@@ -227,7 +227,9 @@ Due to software access limitations, the original ArcGIS project file (.aprx) is 
 
 ---
 Author : Theekshana Pathirana
+
 BSc. in Geographical Information Science
+
 ---
 
 
