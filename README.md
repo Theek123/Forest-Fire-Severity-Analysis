@@ -178,6 +178,7 @@ This workflow provided a **spatially explicit assessment of fire severity**, lin
 
 ### **Conclusion**
 Forest fire severity in Sri Lanka’s montane ecosystems is highly **location-specific** and shaped by the complex interaction of terrain, vegetation, and microclimatic conditions. Generalized fire models cannot accurately represent these dynamics.
+
 ---
 
 ### **Skills Gained**
@@ -189,6 +190,7 @@ Forest fire severity in Sri Lanka’s montane ecosystems is highly **location-sp
 
 ### **Note**
 Due to software access limitations, the original ArcGIS project file (.aprx) is not included. All results are presented through outputs, analysis, and visualizations.
+
 ---
 
 
