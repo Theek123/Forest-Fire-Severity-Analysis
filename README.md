@@ -32,7 +32,7 @@ By integrating these variables, the project provides a comprehensive spatial ana
 
 ---
 
-## Why this project matters
+### Why this project matters
 
 - Supports forest management and fire mitigation planning  
 - Identifies high-risk and vulnerable areas  
@@ -41,7 +41,7 @@ By integrating these variables, the project provides a comprehensive spatial ana
 
 ---
 
-## Summary
+### Summary
 This repository presents a comparative geospatial analysis of wildfire dynamics in Sri Lanka, offering valuable insights for researchers, policymakers, and environmental managers.
 
 --- 
