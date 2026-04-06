@@ -69,8 +69,9 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
 ---
 </details>
 
+<details>
+  <summary>Methodology</summary>
 
-### **Methodology**
  **Factors Considered**
 - Burned area extent  
 - dNBR (Differenced Normalized Burn Ratio) for fire severity  
@@ -98,7 +99,7 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
 - Post-fire satellite image = 2025/02/15
 ---
 
-**Process**
+### **Process**
 - Processed satellite imagery to map burned areas  
 - Calculated **dNBR index** to classify fire severity
 <table>
@@ -122,6 +123,8 @@ Although both locations belong to the tropical montane ecosystem of Sri Lanka, t
 </p> 
 
 ---
+</details>
+
 <details>
   <summary>Methodology in detail</summary>
 
